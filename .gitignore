@@ -1,0 +1,18 @@
+# Folder view configuration files
+.DS_Store
+.idea
+
+# Environment
+unet_env/
+
+# Folders
+data/
+logs/
+models/saved_models/
+models/__pycache__/
+tools/
+config/__pycache__/
+utils/__pycache__/
+
+# Other files
+test_indices.npy
